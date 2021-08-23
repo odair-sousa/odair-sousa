@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @odair-sousa
-- 👀 I’m interested in php and javascrpt
+- 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning php, javascript and MYSQL
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me: odair.o@outlook.com
