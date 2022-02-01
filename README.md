@@ -1,4 +1,4 @@
-## Olá! Meu nome é Odair, sou estudante de programação atualmente cursando o segundo ano de Análise e Desenvolvimento de Sistemas, tentando me especializar no desenvolvimento web e mobile.
+## Olá! Meu nome é Odair, sou estudante de programação, atualmente cursando o segundo ano de Análise e Desenvolvimento de Sistemas e tentando me especializar no desenvolvimento web e mobile.
 
 <div align="center">
   <a href="https://github.com/odair-sousa">
