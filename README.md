@@ -1,4 +1,5 @@
-## Olá! Eu sou o Odair, estudante de programação
+## Olá! Meu nome é Odair, sou estudante de programação atualmente cursando o segundo ano de Análise e Desenvolvimento de Sistemas, tentando me especializar no desenvolvimento web e mobile.
+
 <div align="center">
   <a href="https://github.com/odair-sousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=odair-sousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
