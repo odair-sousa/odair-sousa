@@ -10,6 +10,7 @@
   <img align="center" alt="wise-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="wise-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" alt="Rafa-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>  
   
   ##
   
@@ -22,4 +23,5 @@
     </a>
     
  ![Snake animation](https://github.com/odair-sousa/odair-sousa/blob/output/github-contribution-grid-snake.svg)
- 
+  
+  </div>
