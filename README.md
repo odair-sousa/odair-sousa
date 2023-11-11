@@ -1,16 +1,8 @@
-## Olá! Meu nome é Odair, atualmente estou cursando o segundo ano de Análise e Desenvolvimento de Sistemas e buscando me especializar no desenvolvimento web e mobile.
-
 <div align="center">
   <a href="https://github.com/odair-sousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=odair-sousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odair-sousa&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="wise-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="wise-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="wise-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="wise-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-</div>  
   
   ##
   
