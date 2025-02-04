@@ -2,7 +2,7 @@
 
 <br/>
 
-## My development stack:
+## Techs that i know or im studing recently:
 <div style="display: inline_block">
   <img align="center" alt="Oda-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> 
   <img align="center" alt="Oda-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
