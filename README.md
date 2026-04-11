@@ -16,9 +16,6 @@ Nice to meet you! I'm a Database Analyst passionate about data, problem-solving,
 
 ## 📫 Where to Find Me
 <div>
-  <a href="https://www.instagram.com/odairozeias5/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
   <a href="mailto:odair.o@outlook.com">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
