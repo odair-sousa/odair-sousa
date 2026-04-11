@@ -32,8 +32,6 @@ Nice to meet you! I'm a Database Analyst passionate about data, problem-solving,
 ## 📊 Coding Activity
 
 <div align="center">
-  <a href="https://github.com/odair-sousa">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=odair-sousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odair-sousa&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=odair-sousa&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odair-sousa&layout=compact&theme=dracula&hide_border=true" />
 </div>
