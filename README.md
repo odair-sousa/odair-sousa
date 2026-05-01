@@ -1,18 +1,17 @@
 ## Hi, I'm Odair Sousa 👋
-
 Nice to meet you! I'm a Database Analyst passionate about data, problem-solving, and continuous learning.
 
-<br/>
+---
 
 ## 🚀 Technologies I Know or Am Currently Studying
-<div style="display: inline_block">
+<div style="display: inline-block">
   <img align="center" alt="Oda-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> 
   <img align="center" alt="Oda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Oda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Oda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<br/>
+---
 
 ## 📫 Where to Find Me
 <div>
@@ -24,10 +23,9 @@ Nice to meet you! I'm a Database Analyst passionate about data, problem-solving,
   </a>
 </div>
 
-<br/>
+---
 
 ## 📊 Coding Activity
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=odair-sousa&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odair-sousa&layout=compact&theme=dracula&hide_border=true" />
